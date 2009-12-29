@@ -37,7 +37,7 @@
           "Karate"
           "Muay Thai")
       
-(question "http://www.youtube.com/watch?v=VFZorStky7U"
+(question "http://www.youtube.com/watch?v=CjOQ9r35uiU&feature=PlayList&p=7A20B67346800F0D&index=0"
           "This rock icon once told a friend that he was from what planet?"
           "Mars"
           "Pluto"
